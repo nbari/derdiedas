@@ -1,3 +1,4 @@
+```
 Ein bisschen hilflos,
 doch eigentlich euphorisch froh zu gehen.
 Schon etwas ängstlich,
@@ -41,3 +42,4 @@ Ich fühl sie unter meiner Haut.
 
 Das ist die Reise,
 die erste Reise meines Lebens.
+```
